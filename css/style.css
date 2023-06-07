@@ -1,0 +1,13 @@
+.entrada{
+    width: 470px;
+}
+.centro{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.titulo{
+    color: white;
+    background-color: blue;
+}
